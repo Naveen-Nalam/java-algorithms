@@ -26,3 +26,12 @@ public class BinaryNumbers {
         Binary(2);
     }
 }
+
+
+/** Sample output
+    if number 2 out put is the output.
+    00
+    10
+    10
+    11
+**/
